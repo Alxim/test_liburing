@@ -2,6 +2,6 @@
 
 Created an TCP echo server running
 
-Delay before answering 5 seconds
+Delay before answering 5 seconds. Delays are cumulative
 
-Number of supported connections: 1
+Number of supported connections: many
